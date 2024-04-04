@@ -1,6 +1,6 @@
 # SPARC
 
-#### Prerequisites
+#### Dependencies
 
 - ROS
 - serial：Serial communication library
